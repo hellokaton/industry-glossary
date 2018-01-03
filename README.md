@@ -1,12 +1,12 @@
 
 <center>
-    <img src="docs/_media/logo.png" width="625px"/>
+    <img src="/docs/_media/logo.png" width="625px"/>
 </center>
 
 汇集行业名词的小词典，帮助你在编程和工作中不再为起名措词而烦恼。
 
 
-[![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-website-ff69b4.svg?style=for-the-badge)](https://biezhi.github.io/industry-glossary/)
+[![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-website-ff69b4.svg)](https://biezhi.github.io/industry-glossary/)
 [![](https://img.shields.io/cocoapods/l/AFNetworking.svg?maxAge=2592000)](LICENSE)
 
 ---
