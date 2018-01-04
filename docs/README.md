@@ -62,6 +62,31 @@
 
 # 金融
 
+|    英文    |  中文  | 描述 |
+| billing | 计费 | 使用某种计费策略为商品计算价格 |
+| redeem | 偿还; 兑现 |  |
+| charge | 费用，收费 |  |
+| credit | 信誉，信用，贷款 |  |
+| invoice | 发票，账单; 开发票，记账单 |  |
+| audit | 审计，查帐 |  |
+| overdue | 逾期，过期 |  |
+| currency | 货币 |  |
+| coupon | 优惠券 |  |
+| international price | 国际价格 |  |
+| price | 价格 |  |
+| coupon | 优惠券 |  |
+| billing period | 计费阶段，计费期间，结算期 |  |
+| billing mode | 计费模式，也可以称为计费策略，常见的有开放价格，按次，按月，免费 |  |
+| billing action policy | 计费动作策略 |  |
+| billing alignment | 计费调整 |  |
+| currency conversion | 货币转换，外汇汇兑 |  |
+| rate | 率，费率，货币转换的手续费或支付的手续费 |  |
+| payment | 付款，支付，通过支付网关进行付款操作 |  |
+| refund | 退还，归还，退款，由于交易取消或其他理赔方式，退还客户支付的款项 |  |
+| transactions | 交易 |  |
+| receipts | 收据 |  |
+| money laundering | 洗钱 |  |
+
 # 房地产
 
 # 电商
